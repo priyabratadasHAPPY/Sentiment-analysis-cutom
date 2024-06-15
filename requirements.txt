@@ -3,3 +3,4 @@ torch
 keyphrasetransformer==0.0.2
 nltk
 transformers
+scipy
